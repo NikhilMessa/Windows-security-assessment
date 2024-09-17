@@ -15,4 +15,4 @@ This project involves assessing the security of a Windows 10 machine by configur
 - **CrackMapExec**: For SMB testing.
 
 ## Results
-See [results/findings.md](results/findings.md) for detailed findings.
+See [findings.md](findings.md) for detailed findings.
